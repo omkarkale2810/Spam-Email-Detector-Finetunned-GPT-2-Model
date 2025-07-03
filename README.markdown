@@ -22,8 +22,8 @@ This repository contains a spam email detector built using a fine-tuned GPT-2 mo
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/omkarkale2810/spam-email-detector-llm.git
-   cd spam-email-detector-llm
+   git clone https://github.com/omkarkale2810/Spam-Email-Detector-Finetunned-GPT-2-Model.git
+   cd Spam-Email-Detector-Finetunned-GPT-2-Model
    ```
 2. Install dependencies:
    ```bash
