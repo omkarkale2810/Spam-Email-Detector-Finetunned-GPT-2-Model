@@ -22,7 +22,7 @@ This repository contains a spam email detector built using a fine-tuned GPT-2 mo
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/spam-email-detector-llm.git
+   git clone https://github.com/omkarkale2810/spam-email-detector-llm.git
    cd spam-email-detector-llm
    ```
 2. Install dependencies:
@@ -135,6 +135,4 @@ This project is licensed under the [MIT License](LICENSE).
 - Built with PyTorch and inspired by open-source NLP tutorials.
 
 ## Contact
-For issues, questions, or suggestions, please open an issue on this repository or contact the maintainer at <your-email>.
-
-For pricing or subscription details related to xAI products, visit [x.ai/grok](https://x.ai/grok) or [help.x.com](https://help.x.com/en/using-x/x-premium).
+For issues, questions, or suggestions, please open an issue on this repository or contact the maintainer at omkarkale7888@gmail.com
